@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Java involving ConcurrentModificationException when modifying a list during iteration. The `ConcurrentModificationExceptionExample.java` file contains the erroneous code, while `ConcurrentModificationExceptionExampleSolution.java` provides a corrected version using an iterator.
